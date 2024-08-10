@@ -107,6 +107,13 @@ const projects = [
     tags: ['SQL', 'Tableau'],
     githubLink: 'https://github.com/AizazL/COVIDBoard'
   },
+  {
+    image: '/images/Portfolio.png',
+    title: 'Portfolio Website',
+    subtitle: 'This website! Built using the React Library to showcase my projects.',
+    tags: ['React', 'Node.js', 'CSS'],
+    githubLink: 'https://github.com/AizazL/COVIDBoard'
+  },
 ];
 
 const Projects = () => {

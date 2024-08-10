@@ -92,7 +92,7 @@ const SocialLink = styled.a`
 
 function App() {
   const [text] = useTypewriter({
-    words: ['Software Engineer', 'Student', 'Tech Enthusiast'],
+    words: ['Software Engineer', 'CS Student', 'Tech Enthusiast'],
     loop: true,
     typeSpeed: 100,
     deleteSpeed: 100,
