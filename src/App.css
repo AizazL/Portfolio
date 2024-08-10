@@ -1,0 +1,50 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #e0e0e0;
+  background-color: #121212;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+#tsparticles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* Ensure particles are behind content */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.contact-link {
+  color: #00aaff;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
+
+
+/* Add specific styles for the Projects section if needed */
+.projects img {
+  border-radius: 10px;
+}
+
+.projects h2 {
+  margin-top: 20px;
+}
+
+.projects h3 {
+  color: #aaa;
+}
+
+.projects .tag {
+  background-color: #00aaff;
+}
+
