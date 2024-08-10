@@ -112,7 +112,7 @@ const projects = [
     title: 'Portfolio Website',
     subtitle: 'This website! Built using the React Library to showcase my projects.',
     tags: ['React', 'Node.js', 'CSS'],
-    githubLink: 'https://github.com/AizazL/COVIDBoard'
+    githubLink: 'https://github.com/AizazL/Portfolio'
   },
 ];
 
