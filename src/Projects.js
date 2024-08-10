@@ -108,7 +108,7 @@ const projects = [
     githubLink: 'https://github.com/AizazL/COVIDBoard'
   },
   {
-    image: '/images/Portfolio.png',
+    image: '/images/portfolio.png',
     title: 'Portfolio Website',
     subtitle: 'This website! Built using the React Library to showcase my projects.',
     tags: ['React', 'Node.js', 'CSS'],
