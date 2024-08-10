@@ -1,6 +1,7 @@
 # Portfolio Website
 
-This site serves to showcase my various projects - check it out @ aizazlodhi.com.
+This site serves to showcase my various projects -[aizazlodhi.com](https://aizazlodhi.com)
+
 
 ## Features
 
