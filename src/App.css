@@ -1,4 +1,3 @@
-/* Global Styles */
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
@@ -14,7 +13,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0; /* Ensure particles are behind content */
+  z-index: 0; 
 }
 
 a {
@@ -30,8 +29,6 @@ a {
   text-decoration: underline;
 }
 
-
-/* Add specific styles for the Projects section if needed */
 .projects img {
   border-radius: 10px;
 }
